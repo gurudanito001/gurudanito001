@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @gurudanito001
-- 👀 I’m interested in Web and Mobile Development 
-- 🌱 I’m currently learning Typescript and Python
+- 👋 Hi, I’m Daniel Nwokocha
+- 👀 I’m interested in Web and Mobile Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => Email: gurudanito001@gmail.com 
 
